@@ -19,3 +19,14 @@ timeline
 
     Nov :     
     Dez : H2HC : Semana de Infraestrutura
+
+
+<body>
+  Here is a mermaid diagram:
+  <pre class="mermaid">
+        graph TD 
+        A[Client] --> B[Load Balancer] 
+        B --> C[Server01] 
+        B --> D[Server02]
+  </pre>
+</body>
