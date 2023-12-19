@@ -4,10 +4,7 @@ Lista de eventos de T.I., segurança e maker em 2024
 
 <body>
   Here is a mermaid diagram:
-  <script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({ startOnLoad: true });
-  </script>  
+   
   <pre class="mermaid">
         timeline
             title Eventos de T.I. e Segurança 2024
@@ -24,4 +21,8 @@ Lista de eventos de T.I., segurança e maker em 2024
                 Nov :
                 Dez : H2HC : Semana de Infraestrutura 
   </pre>
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+  </script> 
 </body>
