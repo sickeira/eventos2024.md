@@ -1,5 +1,5 @@
 # eventos2024.md
-Lista de 39 eventos de T.I. e segurança previstos em 2024
+Lista de 49 eventos de T.I. e segurança previstos em 2024
 
 Quando confirmadas as datas já estão marcados os dias no referido mês porém sem confirmação de datas estão no mês estimado, ou no mês que ocorreram em 2023. 
 
